@@ -4,108 +4,108 @@ My solution to LeetCode problems
 
 ## Problems 题库
 
-|   No | 题名                                       | 难度                      | 标签     | Go       | C++      | Java     | Pyt$\color{Red}{困难}$on3 | Rust     |
+|   No | 题名                                       | 难度                      | 标签     | Go       | C++      | Java     | Python3 | Rust     |
 | ---: | ------------------------------------------ | ------------------------- | -------- | -------- | -------- | -------- | ------------------------- | -------- |
-|    1 | 两数之和                                   | $\color{Green}{简单}$     | 哈希表   | &#10004; | &#10004; | &#10004; | &#10004;                  | &#10004; |
-|    2 | 两数相加                                   | $\color{CadetBlue}{中等}$ | 链表     | &#10004; | &#10004; | &#10004; | &#10004;                  |          |
-|    3 | 无重复字符的最长子串                       | $\color{CadetBlue}{中等}$ | 滑动窗口 | &#10004; | &#10004; |          |                           |          |
-|    4 | 寻找两个正序数组的中位数                   | $\color{Red}{困难}$       | 二分查找 | &#10004; | &#10004; | &#10004; |                           |          |
-|    5 | 最长回文子串                               | $\color{CadetBlue}{中等}$ | 字符串   | &#10004; | &#10004; |          |                           |          |
-|    6 | Z 字形变换                                 | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|    7 | 整数反转                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|    8 | 字符串转换整数 (atoi)                      | $\color{CadetBlue}{中等}$ | 字符串   | &#10004; | &#10004; |          |                           |          |
-|    9 | 回文数                                     | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   10 | 正则表达式匹配                             | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   11 | 盛最多水的容器                             | $\color{CadetBlue}{中等}$ | 双指针   | &#10004; | &#10004; |          |                           |          |
-|   12 | 整数转罗马数字                             | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   13 | 罗马数字转整数                             | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   14 | 最长公共前缀                               | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   15 | 三数之和                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   16 | 最接近的三数之和                           | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   17 | 电话号码的字母组合                         | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   18 | 四数之和                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   19 | 删除链表的倒数第 N 个结点                  | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   20 | 有效的括号                                 | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   21 | 合并两个有序链表                           | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   22 | 括号生成                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   23 | 合并K个升序链表                            | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   24 | 两两交换链表中的节点                       | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   25 | K 个一组翻转链表                           | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   26 | 删除有序数组中的重复项                     | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   27 | 移除元素                                   | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   28 | 找出字符串中第一个匹配项的下标             | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   29 | 两数相除                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   30 | 串联所有单词的子串                         | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   31 | 下一个排列                                 | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   32 | 最长有效括号                               | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   33 | 搜索旋转排序数组                           | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   34 | 在排序数组中查找元素的第一个和最后一个位置 | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   35 | 搜索插入位置                               | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   36 | 有效的数独                                 | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   37 | 解数独                                     | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   38 | 外观数列                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   39 | 组合总和                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   40 | 组合总和 II                                | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   41 | 缺失的第一个正数                           | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   42 | 接雨水                                     | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   43 | 字符串相乘                                 | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   44 | 通配符匹配                                 | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   45 | 跳跃游戏 II                                | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   46 | 全排列                                     | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   47 | 全排列 II                                  | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   48 | 旋转图像                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   49 | 字母异位词分组                             | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   50 | Pow(x, n)                                  | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   51 | N 皇后                                     | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   52 | N皇后 II                                   | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   53 | 最大子数组和                               | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   54 | 螺旋矩阵                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   55 | 跳跃游戏                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   56 | 合并区间                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   57 | 插入区间                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   58 | 最后一个单词的长度                         | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   59 | 螺旋矩阵 II                                | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   60 | 排列序列                                   | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   61 | 旋转链表                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   62 | 不同路径                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   63 | 不同路径 II                                | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   64 | 最小路径和                                 | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   65 | 有效数字                                   | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   66 | 加一                                       | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   67 | 二进制求和                                 | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   68 | 文本左右对齐                               | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   69 | x 的平方根                                 | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   70 | 爬楼梯                                     | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   71 | 简化路径                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   72 | 编辑距离                                   | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   73 | 矩阵置零                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   74 | 搜索二维矩阵                               | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   75 | 颜色分类                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   76 | 最小覆盖子串                               | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   77 | 组合                                       | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   78 | 子集                                       | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   79 | 单词搜索                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   80 | 删除有序数组中的重复项 II                  | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   81 | 搜索旋转排序数组 II                        | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   82 | 删除排序链表中的重复元素 II                | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   83 | 删除排序链表中的重复元素                   | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   84 | 柱状图中最大的矩形                         | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   85 | 最大矩形                                   | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   86 | 分隔链表                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   87 | 扰乱字符串                                 | $\color{Red}{困难}$       |          |          |          |          |                           |          |
-|   88 | 合并两个有序数组                           | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   89 | 格雷编码                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   90 | 子集 II                                    | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   91 | 解码方法                                   | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   92 | 反转链表 II                                | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   93 | 复原 IP 地址                               | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   94 | 二叉树的中序遍历                           | $\color{Green}{简单}$     |          |          |          |          |                           |          |
-|   95 | 不同的二叉搜索树 II                        | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   96 | 不同的二叉搜索树                           | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   97 | 交错字符串                                 | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   98 | 验证二叉搜索树                             | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|   99 | 恢复二叉搜索树                             | $\color{CadetBlue}{中等}$ |          |          |          |          |                           |          |
-|  100 | 相同的树                                   | $\color{Green}{简单}$     |          |          |          |          |                           |          |
+|    1 | 两数之和                                   | $\colorbox{Green}{简单}$     | 哈希表   | &#10004; | &#10004; | &#10004; | &#10004;                  | &#10004; |
+|    2 | 两数相加                                   | $\colorbox{CadetBlue}{中等}$ | 链表     | &#10004; | &#10004; | &#10004; | &#10004;                  |          |
+|    3 | 无重复字符的最长子串                       | $\colorbox{CadetBlue}{中等}$ | 滑动窗口 | &#10004; | &#10004; |          |                           |          |
+|    4 | 寻找两个正序数组的中位数                   | $\colorbox{Red}{困难}$       | 二分查找 | &#10004; | &#10004; | &#10004; |                           |          |
+|    5 | 最长回文子串                               | $\colorbox{CadetBlue}{中等}$ | 字符串   | &#10004; | &#10004; |          |                           |          |
+|    6 | Z 字形变换                                 | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|    7 | 整数反转                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|    8 | 字符串转换整数 (atoi)                      | $\colorbox{CadetBlue}{中等}$ | 字符串   | &#10004; | &#10004; |          |                           |          |
+|    9 | 回文数                                     | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   10 | 正则表达式匹配                             | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   11 | 盛最多水的容器                             | $\colorbox{CadetBlue}{中等}$ | 双指针   | &#10004; | &#10004; |          |                           |          |
+|   12 | 整数转罗马数字                             | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   13 | 罗马数字转整数                             | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   14 | 最长公共前缀                               | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   15 | 三数之和                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   16 | 最接近的三数之和                           | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   17 | 电话号码的字母组合                         | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   18 | 四数之和                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   19 | 删除链表的倒数第 N 个结点                  | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   20 | 有效的括号                                 | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   21 | 合并两个有序链表                           | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   22 | 括号生成                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   23 | 合并K个升序链表                            | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   24 | 两两交换链表中的节点                       | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   25 | K 个一组翻转链表                           | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   26 | 删除有序数组中的重复项                     | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   27 | 移除元素                                   | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   28 | 找出字符串中第一个匹配项的下标             | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   29 | 两数相除                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   30 | 串联所有单词的子串                         | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   31 | 下一个排列                                 | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   32 | 最长有效括号                               | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   33 | 搜索旋转排序数组                           | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   34 | 在排序数组中查找元素的第一个和最后一个位置 | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   35 | 搜索插入位置                               | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   36 | 有效的数独                                 | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   37 | 解数独                                     | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   38 | 外观数列                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   39 | 组合总和                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   40 | 组合总和 II                                | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   41 | 缺失的第一个正数                           | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   42 | 接雨水                                     | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   43 | 字符串相乘                                 | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   44 | 通配符匹配                                 | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   45 | 跳跃游戏 II                                | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   46 | 全排列                                     | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   47 | 全排列 II                                  | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   48 | 旋转图像                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   49 | 字母异位词分组                             | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   50 | Pow(x, n)                                  | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   51 | N 皇后                                     | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   52 | N皇后 II                                   | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   53 | 最大子数组和                               | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   54 | 螺旋矩阵                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   55 | 跳跃游戏                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   56 | 合并区间                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   57 | 插入区间                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   58 | 最后一个单词的长度                         | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   59 | 螺旋矩阵 II                                | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   60 | 排列序列                                   | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   61 | 旋转链表                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   62 | 不同路径                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   63 | 不同路径 II                                | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   64 | 最小路径和                                 | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   65 | 有效数字                                   | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   66 | 加一                                       | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   67 | 二进制求和                                 | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   68 | 文本左右对齐                               | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   69 | x 的平方根                                 | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   70 | 爬楼梯                                     | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   71 | 简化路径                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   72 | 编辑距离                                   | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   73 | 矩阵置零                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   74 | 搜索二维矩阵                               | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   75 | 颜色分类                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   76 | 最小覆盖子串                               | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   77 | 组合                                       | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   78 | 子集                                       | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   79 | 单词搜索                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   80 | 删除有序数组中的重复项 II                  | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   81 | 搜索旋转排序数组 II                        | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   82 | 删除排序链表中的重复元素 II                | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   83 | 删除排序链表中的重复元素                   | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   84 | 柱状图中最大的矩形                         | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   85 | 最大矩形                                   | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   86 | 分隔链表                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   87 | 扰乱字符串                                 | $\colorbox{Red}{困难}$       |          |          |          |          |                           |          |
+|   88 | 合并两个有序数组                           | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   89 | 格雷编码                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   90 | 子集 II                                    | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   91 | 解码方法                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   92 | 反转链表 II                                | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   93 | 复原 IP 地址                               | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   94 | 二叉树的中序遍历                           | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
+|   95 | 不同的二叉搜索树 II                        | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   96 | 不同的二叉搜索树                           | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   97 | 交错字符串                                 | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   98 | 验证二叉搜索树                             | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|   99 | 恢复二叉搜索树                             | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |                           |          |
+|  100 | 相同的树                                   | $\colorbox{Green}{简单}$     |          |          |          |          |                           |          |
 
 
 
