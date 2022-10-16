@@ -20,7 +20,7 @@ My solution to LeetCode problems
 |   12 | 整数转罗马数字                             | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |          |          |
 |   13 | 罗马数字转整数                             | $\colorbox{Orange}{简单}$    | 哈希表   | &#10004; | &#10004; |          |          |          |
 |   14 | 最长公共前缀                               | $\colorbox{Orange}{简单}$    |          |          |          |          |          |          |
-|   15 | 三数之和                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |          |          |
+|   15 | 三数之和                                   | $\colorbox{CadetBlue}{中等}$ | 双指针   | &#10004; | &#10004; |          |          |          |
 |   16 | 最接近的三数之和                           | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |          |          |
 |   17 | 电话号码的字母组合                         | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |          |          |
 |   18 | 四数之和                                   | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |          |          |
@@ -106,6 +106,4 @@ My solution to LeetCode problems
 |   98 | 验证二叉搜索树                             | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |          |          |
 |   99 | 恢复二叉搜索树                             | $\colorbox{CadetBlue}{中等}$ |          |          |          |          |          |          |
 |  100 | 相同的树                                   | $\colorbox{Orange}{简单}$    |          |          |          |          |          |          |
-
-
 
