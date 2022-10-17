@@ -21,7 +21,7 @@ My solution to LeetCode problems
 |   13 | 罗马数字转整数                             | $\colorbox{CadetBlue}{简单}$ | 哈希表   | &#10004; | &#10004; |          |          |          |
 |   14 | 最长公共前缀                               | $\colorbox{CadetBlue}{简单}$ |          |          |          |          |          |          |
 |   15 | 三数之和                                   | $\colorbox{Orange}{中等}$    | 双指针   | &#10004; | &#10004; |          |          |          |
-|   16 | 最接近的三数之和                           | $\colorbox{Orange}{中等}$    |          |          |          |          |          |          |
+|   16 | 最接近的三数之和                           | $\colorbox{Orange}{中等}$    | 双指针   | &#10004; | &#10004; |          |          |          |
 |   17 | 电话号码的字母组合                         | $\colorbox{Orange}{中等}$    |          |          |          |          |          |          |
 |   18 | 四数之和                                   | $\colorbox{Orange}{中等}$    |          |          |          |          |          |          |
 |   19 | 删除链表的倒数第 N 个结点                  | $\colorbox{Orange}{中等}$    |          |          |          |          |          |          |
